@@ -6,4 +6,24 @@ Check out this video on the entire guide from downloading VirtualBox and install
 
 ```sudo apt install build-essential dkms linux-headers-$(umane -r)```
 
+## Error: Incase you encounter an error while trying to run the Guest Audittions from the top menu bar on Devices
+
+Navigate to /media/ubuntu/VBox_GAs_6.1.38/ folder
+
+```cd ~/media/ubuntu/VBox_GAs_6.1.38/ ```
+
+Locate the autorun.sh file and run it
+
+```./autorun.sh```
+
+Make sure to include the './' before the script name to specify that the script is located in the current directory.
+
+If the script has executable permissions,  it will start running, and you will see the output or actions performed by the script in the terminal.
+
+
+### If you encounter any issues while running the script, ensure that the script file has the necessary permissions. You can use the chmod command to add executable permissions if needed:
+
+```chmod +x autorun.sh```
+
+
 https://youtu.be/x5MhydijWmc
