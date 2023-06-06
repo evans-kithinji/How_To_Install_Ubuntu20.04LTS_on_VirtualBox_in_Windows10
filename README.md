@@ -25,5 +25,6 @@ If the script has executable permissions,  it will start running, and you will s
 
 ```chmod +x autorun.sh```
 
+Check out the video below to learn more.
 
 https://youtu.be/x5MhydijWmc
