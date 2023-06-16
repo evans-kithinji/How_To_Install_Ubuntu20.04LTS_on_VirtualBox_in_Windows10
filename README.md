@@ -8,6 +8,9 @@ Check out this video on the entire guide from downloading VirtualBox and install
 
 ## Error: Incase you encounter an error while trying to run the Guest Audittions from the top menu bar on Devices
 
+Go to '/'
+```cd /```
+
 Navigate to /media/ubuntu/VBox_GAs_6.1.38/ folder
 
 ```cd ~/media/ubuntu/VBox_GAs_6.1.38/ ```
